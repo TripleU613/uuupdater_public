@@ -73,15 +73,6 @@ If you hit repeatable issues, capture a short logcat snippet and share it when a
 
 ---
 
-## Building Locally
-
-```bash
-./gradlew assembleStandardRelease
-```
-
-The resulting APK is in `app/standard/release/`.
-
----
 
 ## Contributing
 

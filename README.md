@@ -1,10 +1,24 @@
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d8f7854-b61c-45c6-bab0-abb2ecf0804a" alt="App Icon" width="160" height="160">
+</p>
 
-# UUUpdater
+<h1 align="center">UUUpdate</h1>
 
-<img width="500" height="500" alt="Untitled design" src="https://github.com/user-attachments/assets/1d8f7854-b61c-45c6-bab0-abb2ecf0804a" />
+<p align="center">
+  A clean, universal Android app updater — pulling from APKPure, Aptoide, Play Store (Aurora API), GitHub, F-Droid, and IzzyOnDroid.
+</p>
 
-UUUpdater is an Android app that helps you discover and manage app updates from trusted third‑party catalogues—no extra system privileges required.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b9c1f96-1d27-406a-9279-58ca888b7624" width="23%" />
+  <img src="https://github.com/user-attachments/assets/50f0f1b5-32d7-413e-9bda-466311ec028a" width="23%" />
+  <img src="https://github.com/user-attachments/assets/8196e505-8276-42a8-8570-004dabc00d26" width="23%" />
+  <img src="https://github.com/user-attachments/assets/56a59874-52b7-40db-9f5f-e74c705b668e" width="23%" />
+</p>
+
+
+
 
 ---
 

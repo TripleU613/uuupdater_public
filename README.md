@@ -71,15 +71,6 @@
 
 If you hit repeatable issues, capture a short logcat snippet and share it when asking for help.
 
----
-
-
-## Contributing
-
-1. Fork the repository and create a feature branch.
-2. Make your changes (UI, sources, docs—no code drop required to test the public build).
-3. Run `./gradlew test lint`.
-4. Open a pull request summarising the change. Screenshots/gifs are welcome for UI tweaks.
 
 ---
 
